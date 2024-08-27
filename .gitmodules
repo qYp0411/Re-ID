@@ -1,0 +1,3 @@
+[submodule "3C-reid"]
+	path = 3C-reid
+	url = https://github.com/stone5265/3C-reid.git
